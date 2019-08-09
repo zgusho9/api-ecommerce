@@ -71,7 +71,7 @@ function MetaDatum(name, date, author, price, button){
       txt += "<b> Date:</b>  " + metas[i].date + "</br>";
       txt += "<b> Author:</b>  " + metas[i].author + "</br>";
       txt += "<b> Price:</b>  " + metas[i].price + "</br></br></br>";
-      txt += "<a href=" + metas[i].button + "><button class= 'button_boi button_boi1'>Buy on OCEAN</button></a>"  ; //change to popup or link maybe? see what happens
+      txt += "<a href=" + metas[i].button + "><button class= 'button_boi button_boi1'>Buy on <span style='fontWeight:\"900\"'>OCEAN</span></button></a>"  ; //change to popup or link maybe? see what happens
       //let in_txt = '<div class = "append_here"><txt>'
       $("div.result_box").append('<div class = "product">' + txt + '</div>');
     }

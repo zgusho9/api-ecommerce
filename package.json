@@ -1,7 +1,6 @@
 {
   "name": "sublime-4",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "http-server",
@@ -15,5 +14,14 @@
   "dependencies": {
     "cors": "^2.8.5",
     "jquery": "^3.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgusho9/api-ecommerce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zgusho9/api-ecommerce/issues"
+  },
+  "homepage": "https://github.com/zgusho9/api-ecommerce#readme",
+  "description": ""
 }

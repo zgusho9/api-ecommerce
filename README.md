@@ -29,7 +29,7 @@ Demo search API:
     
   How to use demo search API:  
    1. Enter get request to recieve JSON object of every available data asset from OCEAN
-      a. example https://pure-waters-23057.herokuapp.com/api/assets/cars for a response with every asset with a "cars" tag
+      a. ex. https://pure-waters-23057.herokuapp.com/api/assets/cars for a response with every asset with "cars" tag
    2. (Optional) use a JSON formatter browser plugin to view the data in an organised object manner
     
 Demo 3rd party OCEAN API implementation:

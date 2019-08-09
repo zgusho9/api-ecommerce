@@ -4,7 +4,7 @@ Demo for 3rd party Ocean search API implementation.
 Use Case:
 
     As an existing data marketplace owner, I would like to expand our offerings and inventory by integrating
-   with other marketplaces, so my customers can discover all needed data without leaving my portal.  
+    with other marketplaces, so my customers can discover all needed data without leaving my portal.  
   
 Problem:
 
@@ -34,7 +34,7 @@ Demo search API:
   
     Demo search API heroku app: https://pure-waters-23057.herokuapp.com/api/assets/
     
-   How to use demo search API:  
+How to use demo search API:  
   
     1. Enter get request to recieve JSON object of every available data asset from OCEAN
    

@@ -1,4 +1,4 @@
-# api-ecommerce
+# ocean-search-ecommerce-demo
 Demo for 3rd party Ocean search API implementation.
 
 Use Case:

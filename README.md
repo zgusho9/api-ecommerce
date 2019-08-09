@@ -30,7 +30,7 @@ Why?:
   
 Demo search API:
 
-    Demo search API repository can be found (here)
+    Demo search API repository: https://github.com/innoprenuer/ocean-web-api
   
     Demo search API heroku app: https://pure-waters-23057.herokuapp.com/api/assets/
     

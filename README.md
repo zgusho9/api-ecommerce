@@ -40,10 +40,15 @@ Demo 3rd party OCEAN API implementation:
   
   How to setup and use:
     1. Clone repository
+    
     2. Install/update required apps (npm install)
+    
     3. Run on local server (npm start)
+    
     4. Use search bar to search by tag
       a. search for assets related to cars by searching "cars"
+      
     5. Results appear in boxes below that include metadata for each individual asset
+    
     6. Button that reads "Buy on OCEAN" at the bottom of each box redirects user to the asset's OCEAN Commons page
        a. This allows the user to find out more about the asset and purchase if they choose

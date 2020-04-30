@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "repository": {
     "type": "git",
